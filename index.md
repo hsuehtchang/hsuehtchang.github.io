@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 title: Xuedong Zhang
 description: genetics
 keywords: B
