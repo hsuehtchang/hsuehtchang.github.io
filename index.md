@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Hsueh-tung Chang 张雪东（Xuedong Zhang）
+title: Home
 description: genetics
 keywords: B
 ---
+#### What I cannot create, I don't understand.     ---from Richard Feynman
 
-
+#### Hsueh-tung Chang 张雪东 (Xuedong Zhang)
 
 ---
 
