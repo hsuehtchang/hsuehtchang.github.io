@@ -1,6 +1,6 @@
 ## Hsueh-tung Chang‘s website
 Hsueh-tung Chang（张雪东，Pinyin: Xuedong Zhang）
-See [nkburridge.github.io](https://hsuehtchang.github.io).
+See [hsuehtchang.github.io](https://hsuehtchang.github.io).
 
 ## Acknowledge
 This website is based on [Professor Karl Broman's repository](https://github.com/kbroman/kbroman.github.io), which is also the starting point for me to learn HTML.  
